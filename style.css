@@ -437,6 +437,10 @@ nav {
   align-items: center;
   border-radius: 10px;
   margin: 0 10px;
+  transition: background 0.2s;
+}
+.hiringButton:hover {
+  background: #a6aaaa;
 }
 .hiringButton h3 {
   font-size: 5rem;
